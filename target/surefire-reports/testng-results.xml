@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-01T14:42:13 SGT" name="Suite" finished-at="2022-07-01T14:42:22 SGT" duration-ms="9019">
+    <groups>
+    </groups>
+    <test started-at="2022-07-01T14:42:13 SGT" name="Test" finished-at="2022-07-01T14:42:22 SGT" duration-ms="9019">
+      <class name="maven_TestNG.Maven_TestNG_Sample">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:maven_TestNG.Maven_TestNG_Sample@3e11f9e9]" started-at="2022-07-01T14:42:13 SGT" name="openBrowser" finished-at="2022-07-01T14:42:17 SGT" duration-ms="4485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testSomething()[pri:0, instance:maven_TestNG.Maven_TestNG_Sample@3e11f9e9]" started-at="2022-07-01T14:42:17 SGT" name="testSomething" finished-at="2022-07-01T14:42:20 SGT" duration-ms="2474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSomething -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:maven_TestNG.Maven_TestNG_Sample@3e11f9e9]" started-at="2022-07-01T14:42:20 SGT" name="closeBrowser" finished-at="2022-07-01T14:42:22 SGT" duration-ms="2030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- maven_TestNG.Maven_TestNG_Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
